@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Wherever malaria is present, children are in danger. ", 
+  "language": "eng_GB", 
+  "title": "Wherever malaria is present, children are in danger. A child with a fever should be examined immediately by a trained health worker and receive an appropriate antimalarial treatment as soon as possibl", 
+  "primary_category": "669a1d68010e413a96e8aefdf86ea142", 
+  "created_at": "2014-09-09T12:14:20+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T16:48:03.979505+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "4b6973e558c64b22af55a866119adc9a", 
+  "content": "Malaria should be suspected if anyone in the family has a fever, or if young children refuse to eat or have vomiting, diarrhoea, drowsiness or fits.\r\n\r\nA child with a fever believed to be caused by malaria needs immediate antimalarial treatment as recommended by a trained health worker. If possible, the child should be tested with a Rapid Diagnostic Test (RDT) or microscopy (laboratory diagnosis involving the examination of the person's blood under a microscope) to confirm the malaria infection. RDTs are inexpensive and increasingly available.\r\n\r\nIf a child with a malarial fever is not treated within a day, she or he might die. ACTs are recommended by WHO for treatment of Plasmodium falciparum malaria. A trained health worker can advise on what type of ACT treatment is best and how long it should be taken in accordance with national guidelines.\r\n\r\nMalaria usually causes a high fever and chills. A child with a high fever should be kept cool for as long as the fever persists by:\r\n\r\n\r\n* sponging or bathing the child with tepid water (cool, not cold)\r\n* providing treatment with antipyretics (medication that prevents or reduces fever), such as paracetemol or ibuprofen, but not aspirin.\r\n\r\nKeeping the fever from going too high is important to prevent convulsions, which could lead to disabilities.\r\n\r\nA child with malaria needs to take the full course of treatment, even if the fever disappears rapidly. If the treatment is not completed, the malaria could become more severe and difficult to cure. Incomplete treatment regimens can also lead to the development of drug resistance among people in the local area.\r\n\r\nIf the malaria symptoms continue after treatment, the child should be taken to a health centre or hospital. The problem may be:\r\n\r\n* the child is not receiving enough medicine\r\n* the child has an illness other than malaria\r\n* the malaria is resistant to the medicine, and another medicine is needed.\r\n\r\nHealth-care providers have the responsibility to ensure that parents and caregivers are well informed about ways to prevent malaria and the best practices for caring for a child with malaria.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "wherever-malaria-is-present-children-are-in-danger-a-child-with-a-fever-should-be-examined-immediately-by-a-trained-health-worker-and-receive-an-appropriate-antimalarial-treatment-as-soon-as-possibl", 
+  "uuid": "4b6973e558c64b22af55a866119adc9a"
+}

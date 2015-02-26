@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Disease can spread quickly when people are crowded together. All children living in congested conditions, particularly in refugee or disaster situations, should be immunized immediately, especially against measles.", 
+  "language": "eng_GB", 
+  "title": "Disease can spread quickly when people are crowded together. All children living in congested conditions, particularly in refugee or disaster situations, should be immunized immediately, especially ag", 
+  "primary_category": "74843060af944a698b9a33574f3275d4", 
+  "created_at": "2014-09-12T09:28:33+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T16:02:24.007169+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "b484f23fa5ed4eefbe08373617ff5bbb", 
+  "content": "Emergencies that make people flee their homes often lead to the spread of\r\ncommunicable diseases. Therefore, all displaced children under 15 years of age\r\nshould be immediately immunized, especially for measles, at the first point of\r\ncontact or settlement. \r\n\r\nMeasles is even more serious when children are\r\nmalnourished or living in conditions of poor sanitation. \r\n\r\n* Diseases like\r\nmeasles spread very quickly. A child with measles needs to be kept away from\r\nother children, be examined by a trained health worker and be given a high\r\ndose of vitamin A. \r\n* When there is an outbreak of measles in an area, children\r\nshould be immunized. Neighbouring areas should be alerted and children\r\nimmunized. \r\n\r\nIf routine child immunization has been disrupted, a trained health\r\nworker should be consulted to complete the immunizations according to national\r\nguidelines. If the child's vaccination record is lost and the parents do not\r\nremember which vaccines the child has received, it is safe to repeat doses.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "disease-can-spread-quickly-when-people-are-crowded-together-all-children-living-in-congested-conditions-particularly-in-refugee-or-disaster-situations-should-be-immunized-immediately-especially-ag", 
+  "uuid": "b484f23fa5ed4eefbe08373617ff5bbb"
+}

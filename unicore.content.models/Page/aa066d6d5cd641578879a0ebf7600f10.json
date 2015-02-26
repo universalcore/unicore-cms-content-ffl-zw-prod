@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "All children born to HIV-positive mothers or to parents with symptoms, signs or conditions associated with HIV infection should be tested for HIV. If found to be HIV-positive, they should be referred for follow-up care and treatment and given loving care and support", 
+  "language": "eng_GB", 
+  "title": "All children born to HIV-positive mothers or to parents with symptoms, signs or conditions associated with HIV infection should be tested for HIV. If found to be HIV-positive, they should be referred ", 
+  "primary_category": "99fdaf31bc2949a5ab89f7b2217811d6", 
+  "created_at": "2014-09-15T09:17:04+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-24T16:57:57.354062+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "aa066d6d5cd641578879a0ebf7600f10", 
+  "content": "The earlier a child is tested, diagnosed with HIV and started on HIV treatment, the better the chance of his or her survival and living a longer and healthier life.\r\n\r\nThe health-care provider should recommend HIV testing and counselling as part of standard care to all children, adolescents and adults who exhibit signs, symptoms or medical conditions that could indicate HIV infection or who have been exposed to HIV. HIV testing and counselling should be recommended for all children seen in health services in settings where there is a generalized HIV epidemic.\r\n\r\nA child whose mother is known to be HIV-positive should be tested for HIV within six weeks of birth or as soon as possible. Infants have their mother's antibodies for several weeks after birth, and therefore standard antibody tests are not accurate for them. A special polymerase chain reaction (PCR) test is required to tell if an infant has the virus around 6 weeks of age. If positive, the child needs to begin treatment immediately. The health-care provider can help the family set up a feasible and appropriate antiretroviral therapy regimen for the child. The parents should receive counselling and social services.\r\n\r\nAn important part of HIV care and antiretroviral treatment (ART) for children is the antibiotic cotrimoxazole. It helps prevent 'opportunistic' infections related to HIV, especially PCP (pneumocystis pneumonia). This treatment is called cotrimoxazole preventive therapy, or CPT.\r\n\r\nChildren with HIV should be given ART in fixed-dose combinations. These can be prescribed by a trained health worker, who can also provide follow-up support. If the child is going to school, the school can also provide support to make sure that the child takes the medicines while at school.\r\n\r\nIt is critical to encourage children taking ART to keep taking the medicines on the recommended schedule. This will help ensure the treatment remains effective.\r\n\r\nChildren need a healthy, balanced diet under any circumstances, but when they receive HIV treatment, ensuring proper nutrition is especially important.\r\n\r\nHIV or opportunistic infections may cause reduced food intake due to decreased appetite, difficulty swallowing or poor absorption. Therefore extra attention should be given to the nutrition of children who are HIV-positive to make sure they receive high-quality, easily digestible foods. Without proper nutrition, their growth and development can be hindered. This could lead to more opportunistic infections that further deplete children's energy and increase their nutritional needs.\r\n\r\nOnce children who are HIV-positive are old enough to understand, they need to be involved in decisions about their medical care and support. They also should be made aware of the importance of prompt care and treatment of infections. This is a critical part of developing their ability to make healthy decisions in the future.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 4, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "all-children-born-to-hiv-positive-mothers-or-to-parents-with-symptoms-signs-or-conditions-associated-with-hiv-infection-should-be-tested-for-hiv-if-found-to-be-hiv-positive-they-should-be-referred", 
+  "uuid": "aa066d6d5cd641578879a0ebf7600f10"
+}
