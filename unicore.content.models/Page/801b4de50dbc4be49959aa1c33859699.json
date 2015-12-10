@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Information can save lives, improve health and reduce suffering", 
+  "language": "eng_GB", 
+  "title": "What is \u201cFacts for Life\u201d?", 
+  "primary_category": "d3af919d2b3d413a9252f0dcfc23381f", 
+  "created_at": "2015-07-06T17:51:02+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-07-06T17:51:02+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Knowledge can expand low-cost prevention, treatment and protection measures. The challenge is to be certain that knowledge is shared with parents, caregivers and communities: the first line of defence in protecting children from illness and harm. **Facts for Life** presents essential information on how to prevent child and maternal deaths, diseases, injuries and violence. **Facts for Life** was created jointly by UNICEF, WHO, UNESCO, UNFPA, UNDP, UNAIDS, WFP and the World Bank.\r\n\r\nThis rendition of **Facts for Life** has been lightly adapted from the thorough and readable version produced by UNICEF DRC\u2019s Digital Communication on [www.ponabana.com][1]\r\n\r\nFacts for Life aims to provide families and communities with the information they need to save and improve the lives of children. Parents, grandparents, other caregivers and young people can refer to this practical source of information for answers to their questions related to childbearing and getting children off to the best start in life. The challenge is to ensure that everyone knows and understands these facts and is motivated to put them into practice.\r\n\r\n[Read all Facts for Life.][2]\r\n\r\nNext article: \r\n\r\n\r\n  [1]: http://www.ponabana.com\r\n  [2]: http://www.factsforlifeglobal.org/resources/factsforlife-en-full.pdf", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 15, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-facts-life", 
+  "uuid": "801b4de50dbc4be49959aa1c33859699"
+}
