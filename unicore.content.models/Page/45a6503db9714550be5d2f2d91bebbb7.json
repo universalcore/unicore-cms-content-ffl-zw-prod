@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Facts to know about malaria", 
+  "language": "eng_GB", 
+  "title": "How to avoid malaria", 
+  "primary_category": "8998d63a575943108f77caaf57686002", 
+  "created_at": "2015-07-06T18:42:35+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-07-06T18:42:35+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**Malaria is a serious disease spread through mosquito bites, and is a leading cause of death, illness, and poor growth and development among young children.**\r\n\r\n**Malaria is particularly dangerous for pregnant women.** Millions of pregnant women are exposed to malaria each year. Malaria during pregnancy contributes to low-birthweight babies in endemic areas, plus anaemia, stillbirth and even maternal deaths.\r\n\r\n**Malaria is spread by the bite of an Anopheles mosquito. The mosquito transfers the malaria parasite, Plasmodium, from person to person.** People get very sick with high fevers, diarrhoea, vomiting, headache, chills and flu-like illness. Especially in children, the disease can worsen rapidly. Children under 5 years old are most susceptible to malaria because they have very little acquired immunity to resist it.\r\n\r\n**Many lives can be saved by preventing malaria and treating it early.** Children and their family members have the right to quality health care for prompt and effective treatment and malaria prevention.\r\n\r\n**Facts to know about malaria:**\r\n\r\n 1. **Malaria is transmitted through the bites of some mosquitoes.** Sleeping under an insecticide-treated mosquito net is the best way to prevent mosquito bites.\r\n\r\n 2. **If malaria is present, children are in danger.** A child with a fever should be examined immediately by a trained health worker and receive an appropriate treatment as soon as possible if diagnosed with malaria. Artemisinin-based combination therapies (ACTs) are recommended by WHO for treatment of malaria. \r\n\r\n 3. **Malaria is very dangerous for pregnant women.** Wherever malaria is common, they should prevent malaria by taking antimalarial tablets recommended by a trained health worker and by sleeping under an insecticide-treated mosquito net.\r\n\r\n 4. **A child suffering or recovering from malaria needs plenty of liquids and foods.**\r\n\r\nNext article: ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 106, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-avoid-malaria", 
+  "uuid": "45a6503db9714550be5d2f2d91bebbb7"
+}
